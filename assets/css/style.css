@@ -1,0 +1,70 @@
+
+body {
+  background-color: black;
+  background-image: url('../images/strangerthings.jpg');
+  text-align: center;
+  color: red;
+
+}
+
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: auto;
+  margin-right: auto;
+  height: 30px;
+  font-size: 16px;
+  background-color: black;
+  font color: white;
+  padding-top: 1.1%;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: grey;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: white;
+  padding-left: 14px;
+  background-color: black;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+  background-color: white;
+  height: 50px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+  color: white;
+}
+
+#footer {
+  font-size: 15px;
+  color: white;
+  text-align: center;
+
+}
+
