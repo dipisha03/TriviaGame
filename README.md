@@ -16,7 +16,7 @@ Here's how the game works:
 
 	* If you select the wrong answer, the app will tell you the correct answer and direct you to the next question after a few seconds.  
 
-	* If you run out of time, the app will tell you the  time's up and display the correct answer. The app will direct you to the next question in a few seconds. 
+	* If you run out of time, the app will tell you the time's up and display the correct answer. The app will direct you to the next question in a few seconds. 
 
 	* On the final screen, the app will display the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
