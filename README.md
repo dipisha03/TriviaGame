@@ -6,7 +6,7 @@ Created a JavaScript timed Trivia Game based on the Netflix original series - St
 
 ![Alt text](https://raw.githubusercontent.com/dipisha03/TriviaGame/master/assets/images/trivia.png "trivia")
 
-Here's how the game works:
+<b>Here's how the game works:</b>
 
 	* On page load, it will display the Stranger Things background with the option to start the game. 
 
