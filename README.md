@@ -1,8 +1,10 @@
 # TriviaGame
 
-Created a timed Trivia Game based on the Netflix original series - Strangers Things!  
+Created a JavsScript timed Trivia Game based on the Netflix original series - Strangers Things!  
 
-Technologies used: HTML | CSS | JavaScript | Jquery 
+<b>Technologies used:</b> HTML5 | CSS3 | JavaScript | Jquery 
+
+![Alt text](https://raw.githubusercontent.com/dipisha03/TheBareFootTravelers/master/assets/images/barefoot.png "trivia")
 
 Here's how the game works:
 
@@ -18,6 +20,6 @@ Here's how the game works:
 
 	* On the final screen, the app will display the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
-Link: https://dipisha03.github.io/TriviaGame/#
+<b>Link:</b> https://dipisha03.github.io/TriviaGame/#
 
 Enjoy! 
