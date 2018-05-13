@@ -4,7 +4,7 @@ Created a JavaScript timed Trivia Game based on the Netflix original series - St
 
 <b>Technologies used:</b> HTML5 | CSS3 | JavaScript | Jquery 
 
-![Alt text](https://raw.githubusercontent.com/dipisha03/TheBareFootTravelers/master/assets/images/barefoot.png "trivia")
+![Alt text](https://raw.githubusercontent.com/dipisha03/TriviaGame/master/assets/images/trivia.png "trivia")
 
 Here's how the game works:
 
