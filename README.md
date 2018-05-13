@@ -1,6 +1,6 @@
 # TriviaGame
 
-⏳ Created a JavaScript timed Trivia Game based on the Netflix original series, Strangers Things!  
+⏳ Created a timed JavaScript Trivia Game based on the Netflix original series, Strangers Things!  
 
 <b>Technologies used:</b> HTML5 | CSS3 | JavaScript | Jquery 
 
